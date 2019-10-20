@@ -5,7 +5,7 @@
 > Don't forget to [read our contributing guide](https://github.com/OtacilioN/awesome-hacktoberfest-2019/blob/master/CONTRIBUTING.md)
 
 ## Contents
-- [Repositories Supporting First Timers](#repositories-supporting-first-timers)
+- [Repositories Supporting First-Timers](#repositories-supporting-first-timers)
 - [Repositories Coding for Beginners](#repositories-coding-for-beginners)
 - [Guides and Resources](#guides-and-resources)
 - [Cli Tools](#cli-tools)
@@ -13,7 +13,7 @@
 - [Hacktoberfest Checker](https://hacktoberfestchecker.jenko.me/)
 - [HacktoberfestSwagList - List of companies giving out swag for participating in Hacktoberfest](https://hacktoberfestswaglist.com/)
 
-## Repositories Supporting First Timers
+## Repositories Supporting First-Timers
 
 - [Android-Privacy-Viz](https://github.com/rohitasnair/android-privacy-viz)
 - [Contribute-101](https://github.com/RocktimSaikia/Contribute-101)
